@@ -1,5 +1,6 @@
 # excellence-animator
-Simple Java command line animator
+Simple Java command line animator.
+Takes in a file specifying the shapes in the animation, followed by how they change position, size, and color throughout the animation, and outputs the animation according to the selected animation type.
 
 The program can take the following arguments:
 
